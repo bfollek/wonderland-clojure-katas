@@ -1,9 +1,20 @@
-/target
-/classes
-/checkouts
+target/
+classes/
+checkouts/
 pom.xml
 pom.xml.asc
 *.jar
 *.class
-/.lein-*
-/.nrepl-port
+.lein-*
+.nrepl-port
+
+# IntelliJ/Cursive
+.idea
+*.iml
+
+.DS_Store
+
+TODO
+scratch*
+.vscode
+

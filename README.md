@@ -1,5 +1,10 @@
 # wonderland-clojure-katas
 
+Completed:
+* alphabet-cipher
+* card-game-war
+* magic-square
+
 These are a collection of Clojure
 [katas](http://en.wikipedia.org/wiki/Kata_%28programming%29) inspired by
 [Lewis Carroll](http://en.wikipedia.org/wiki/Lewis_Carroll) and _Alice
